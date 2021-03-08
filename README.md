@@ -1,7 +1,7 @@
---------------------------------------------------------------------------------------------------------------------------
 # Airport-System
 This is an application where you can view the flights of any airline that is connected to its database.
 Also, this application provides the ability to book a ticket to anywhere in the world or otherwise return the ticket, etc.
+
 --------------------------------------------------------------------------------------------------------------------------
 Airport System (R)  Version 1.0  01/03/2021
 
@@ -32,7 +32,9 @@ GENERAL USAGE NOTES
 
 
 AUTHORS: NIGMETOV.A , KUANDYKOV.A 
+=================================
 GROUP: SE-2012
-
+=================================
 
 Copyright (C) 2021 Nigmetov, Kuandykov, Inc. All rights reserved.
+=================================================================
